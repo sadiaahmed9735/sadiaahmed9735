@@ -17,12 +17,11 @@
 
 ## 🚀 About Me
 
-- 🎓 Studying **Computer Science** at **American International University-Bangladesh (AIUB)**, majoring in **Information Systems**.
-- 🤖 Focused on **Machine Learning & Data Science**: finding patterns in data and turning them into useful insights.
-- 📊 Interested in how information is collected, analyzed and used to make better decisions.
-- 🧠 Have hands-on experience with **C, C++, Java, PHP & JavaScript**, and love solving problems step by step.
-- 🤝 Like working in teams, taking the lead and learning something new from every challenge.
-- 📫 Let's connect: [sadiaahmed9735@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sadiaahmed9735@gmail.com)
+- 🎓 **CS undergrad @ AIUB**, majoring in **Information Systems**
+- 🤖 Focused on **Machine Learning & Data Science**: turning data into insights
+- 🛠️ Hands-on with **C, C++, Java, PHP & JavaScript**
+- 🤝 Team leader at heart, always learning
+- 📫 [sadiaahmed9735@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sadiaahmed9735@gmail.com)
 
 ---
 
