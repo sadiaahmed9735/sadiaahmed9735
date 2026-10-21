@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:sadiaahmed9735@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sadiaahmed9735@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/sadiaahmed9735"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sadia-ahmed-a3558a436/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=sadiaahmed9735&style=for-the-badge&color=2E8B57&label=PROFILE+VIEWS" />
@@ -21,7 +21,7 @@
 - 💻 Enjoy turning ideas into working **web applications**, from the database all the way to the user interface.
 - 🧠 Have hands-on experience with **C, C++, Java, PHP & JavaScript**, and love solving problems step by step.
 - 🤝 Like working in teams, taking the lead and learning something new from every challenge.
-- 📫 Let's connect: [sadiaahmed9735@gmail.com](mailto:sadiaahmed9735@gmail.com)
+- 📫 Let's connect: [sadiaahmed9735@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sadiaahmed9735@gmail.com)
 
 ---
 
