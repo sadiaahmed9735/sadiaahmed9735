@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Computer+Science+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **CS undergrad @ AIUB**, majoring in **Information Systems**
+- 🎓 **Computer Science & Engineering** student @ **AIUB**, majoring in **Information Systems**
 - 🤖 Focused on **Machine Learning & Data Science**: turning data into insights
 - 🛠️ Hands-on with **C, C++, Java, PHP & JavaScript**
 - 🤝 Team leader at heart, always learning
