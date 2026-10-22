@@ -19,11 +19,9 @@
 
 - 🎓 **Computer Science & Engineering** student @ **AIUB**, majoring in **Information Systems**
 - 🤖 Focused on **Machine Learning & Data Science**: turning data into insights
-- 📊 Working with data using **Python & R** in **Jupyter**
-- 🎮 Building 2D graphics and games with **C++ & OpenGL**
+- 📊 Working with data using **Python & R**
 - 🌐 Building web applications with **PHP, MySQL & JavaScript**
 - 🛠️ Hands-on with **C, C++, Java, Python, R, PHP & JavaScript**
-- 🤝 Team leader at heart, always learning
 - 📫 [sadiaahmed9735@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sadiaahmed9735@gmail.com)
 
 ---
@@ -33,7 +31,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=flat-square" />
   <img src="https://img.shields.io/badge/Data%20Science-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-6D28D9?style=flat-square" />
   <img src="https://img.shields.io/badge/Computer%20Graphics-2E8B57?style=flat-square" />
   <img src="https://img.shields.io/badge/Web%20Development-0E7490?style=flat-square" />
   <img src="https://img.shields.io/badge/Software%20Engineering-155E75?style=flat-square" />
