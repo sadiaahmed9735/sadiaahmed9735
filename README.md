@@ -19,9 +19,25 @@
 
 - 🎓 **Computer Science & Engineering** student @ **AIUB**, majoring in **Information Systems**
 - 🤖 Focused on **Machine Learning & Data Science**: turning data into insights
-- 🛠️ Hands-on with **C, C++, Java, PHP & JavaScript**
+- 📊 Working with data using **Python & R** in **Jupyter**
+- 🎮 Building 2D graphics and games with **C++ & OpenGL**
+- 🌐 Building web applications with **PHP, MySQL & JavaScript**
+- 🛠️ Hands-on with **C, C++, Java, Python, R, PHP & JavaScript**
 - 🤝 Team leader at heart, always learning
 - 📫 [sadiaahmed9735@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sadiaahmed9735@gmail.com)
+
+---
+
+## 🎯 Areas of Interest
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data%20Science-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-6D28D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Computer%20Graphics-2E8B57?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web%20Development-0E7490?style=flat-square" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-155E75?style=flat-square" />
+</p>
 
 ---
 
@@ -34,6 +50,8 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 **Frontend**
 
@@ -46,20 +64,35 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+**Machine Learning & Data Science**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
+**Computer Graphics**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
 ---
 
-## 📂 Featured Project
+## 📂 Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| [♻️ EcoCycle](https://github.com/sadiaahmed9735/EcoCycle) | Marketplace to sell, donate and recycle unwanted items, with User, NGO, Delivery and Admin roles | PHP (MVC), MySQL, JS |
+| [🎮 Doraemon's Treat Hunt](https://github.com/sadiaahmed9735/doraemon-treat-hunt-cg-project) | 2D side-scrolling game with three levels, power-ups, an enemy and a saved high score; every object drawn from OpenGL primitives (Computer Graphics group project) | C++, OpenGL, GLUT |
+| [♻️ EcoCycle](https://github.com/sadiaahmed9735/EcoCycle) | Marketplace to sell, donate and recycle unwanted items, with User, NGO, Delivery and Admin roles (Web Technologies group project) | PHP (MVC), MySQL, JS |
+| [💬 Bangla–English Sentiment Analysis](https://github.com/sadiaahmed9735/Data-Science-Final-project) | Sentiment classification of code-mixed restaurant reviews (BDFoodSent), comparing BoW and TF-IDF with Logistic Regression, SVM and Naive Bayes (Data Science project) | R |
 
 ---
 
