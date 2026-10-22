@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Engineering+Student" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,7 +10,7 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sadiaahmed9735@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/sadiaahmed9735"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sadia-ahmed-a3558a436/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=sadiaahmed9735&style=for-the-badge&color=2E8B57&label=PROFILE+VIEWS" />
+  <img src="https://hits.sh/github.com/sadiaahmed9735.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=2e8b57&labelColor=555555" />
 </p>
 
 ---
