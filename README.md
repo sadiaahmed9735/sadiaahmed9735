@@ -87,6 +87,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
+| [🚜 AgriRent](https://github.com/sadiaahmed9735/agri-rent-system) | Agricultural equipment rental and management system where farmers book and pay for equipment, employees handle delivery and maintenance, and admins manage pricing and analytics; supports English and Bangla and works offline (Software Engineering group project) | PHP (MVC), MySQL, JS |
 | [🎮 Doraemon's Treat Hunt](https://github.com/sadiaahmed9735/doraemon-treat-hunt-cg-project) | 2D side-scrolling game with three levels, power-ups, an enemy and a saved high score; every object drawn from OpenGL primitives (Computer Graphics group project) | C++, OpenGL, GLUT |
 | [♻️ EcoCycle](https://github.com/sadiaahmed9735/EcoCycle) | Marketplace to sell, donate and recycle unwanted items, with User, NGO, Delivery and Admin roles (Web Technologies group project) | PHP (MVC), MySQL, JS |
 | [💬 Bangla–English Sentiment Analysis](https://github.com/sadiaahmed9735/Data-Science-Final-project) | Sentiment classification of code-mixed restaurant reviews (BDFoodSent), comparing BoW and TF-IDF with Logistic Regression, SVM and Naive Bayes (Data Science project) | R |
