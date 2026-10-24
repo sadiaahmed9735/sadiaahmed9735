@@ -22,6 +22,7 @@
 - 📊 Working with data using **Python & R**
 - 🌐 Building web applications with **PHP, MySQL & JavaScript**
 - 🛠️ Hands-on with **C, C++, Java, Python, R, PHP & JavaScript**
+- 👩‍💻 Check out my portfolio: **[sadia-ahmed.netlify.app](https://sadia-ahmed.netlify.app)**
 - 📫 [sadiaahmed9735@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sadiaahmed9735@gmail.com)
 
 ---
